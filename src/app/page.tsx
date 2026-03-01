@@ -154,8 +154,8 @@ export default function HomePage() {
             <Button variant="primary" href="/pilot">
               Start a 30-Day Pilot
             </Button>
-            <Button variant="secondary" href="#">
-              Download Pilot Playbook
+            <Button variant="secondary" href="https://accumulate-usecase-simulator.vercel.app/">
+              Try the Use Case Simulator
             </Button>
           </div>
         </ScrollReveal>

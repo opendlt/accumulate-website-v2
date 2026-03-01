@@ -160,7 +160,7 @@ export default function UseCasesPage() {
           title="Start a pilot in 30 days."
           body="One workflow. Measurable outcomes. Clear deliverables."
           primaryCTA={{ label: "Start a 30-Day Pilot", href: "/pilot" }}
-          secondaryCTA={{ label: "Download Pilot Kit", href: "#" }}
+          secondaryCTA={{ label: "Try the Use Case Simulator", href: "https://accumulate-usecase-simulator.vercel.app/" }}
         />
       </Section>
     </>

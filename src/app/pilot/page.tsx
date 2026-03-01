@@ -87,8 +87,8 @@ export default function PilotPage() {
                 <Button variant="primary" size="lg" href="#intake-form">
                   Schedule Pilot Intake
                 </Button>
-                <Button variant="secondary" size="lg" href="#">
-                  Download Pilot Kit
+                <Button variant="secondary" size="lg" href="https://accumulate-usecase-simulator.vercel.app/">
+                  Try the Use Case Simulator
                 </Button>
               </div>
               <p className="mt-4">

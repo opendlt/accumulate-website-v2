@@ -88,8 +88,8 @@ export default function VendorAuthorityPage() {
               <Button variant="primary" size="lg" href="/pilot">
                 Start a 30-Day Pilot
               </Button>
-              <Button variant="secondary" size="lg" href="#">
-                Download Pilot Kit
+              <Button variant="secondary" size="lg" href="https://accumulate-usecase-simulator.vercel.app/">
+                Try the Use Case Simulator
               </Button>
             </div>
             <p className="mt-4">
@@ -227,8 +227,8 @@ export default function VendorAuthorityPage() {
           <Button variant="primary" href="/pilot">
             Start a 30-Day Pilot
           </Button>
-          <Button variant="secondary" href="#">
-            Download Pilot Kit
+          <Button variant="secondary" href="https://accumulate-usecase-simulator.vercel.app/">
+            Try the Use Case Simulator
           </Button>
         </div>
       </Section>

@@ -74,7 +74,7 @@ export function UseCaseCard({
             href={href}
             className="text-sm font-semibold text-primary hover:text-primary-hover transition-colors inline-flex items-center gap-1"
           >
-            See the pilot plan
+            Try the use case simulator
             <span className="transition-transform group-hover/uc:translate-x-0.5">&rarr;</span>
           </Link>
         </div>

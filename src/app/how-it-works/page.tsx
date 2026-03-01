@@ -215,7 +215,7 @@ export default function HowItWorksPage() {
           title="Want to see it applied to your environment?"
           body="Pick one workflow and run a 30-day pilot."
           primaryCTA={{ label: "Start a Pilot", href: "/pilot" }}
-          secondaryCTA={{ label: "Download Pilot Kit", href: "#" }}
+          secondaryCTA={{ label: "Try the Use Case Simulator", href: "https://accumulate-usecase-simulator.vercel.app/" }}
         />
       </Section>
     </>

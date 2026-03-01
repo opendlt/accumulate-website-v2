@@ -48,6 +48,9 @@ export default function UseCasesPage() {
                 <Button variant="secondary" size="lg" href="/contact">
                   Talk to an Engineer
                 </Button>
+                <Button variant="secondary" size="lg" href="https://accumulate-usecase-simulator.vercel.app/">
+                  Use Case Simulator
+                </Button>
               </div>
               <p className="mt-4">
                 <Link

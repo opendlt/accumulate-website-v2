@@ -150,7 +150,7 @@ export default function EcosystemPage() {
             {
               command: "studio",
               comment: "Accumulate Studio — build with all five SDKs instantly",
-              href: "https://opendlt.org/tooling/studio/",
+              href: "https://accumulate-studio.vercel.app/",
             },
           ]}
         />
@@ -212,7 +212,7 @@ export default function EcosystemPage() {
               links: [
                 {
                   label: "Open Studio",
-                  href: "https://opendlt.org/tooling/studio/",
+                  href: "https://accumulate-studio.vercel.app/",
                 },
               ],
             },
@@ -291,7 +291,7 @@ export default function EcosystemPage() {
           body="Start with a 30-day pilot, dive into the docs, or jump straight into building with Studio."
           primaryCTA={{ label: "Start a Pilot", href: "/pilot" }}
           secondaryCTA={{ label: "Read the Docs", href: "/docs" }}
-          tertiaryCTA={{ label: "Open Studio", href: "https://opendlt.org/tooling/studio/" }}
+          tertiaryCTA={{ label: "Open Studio", href: "https://accumulate-studio.vercel.app/" }}
         />
       </Section>
     </>

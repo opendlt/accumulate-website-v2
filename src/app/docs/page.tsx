@@ -97,7 +97,7 @@ export default function DocsPage() {
             <Button variant="primary" href="#">
               Full Quickstart Guide
             </Button>
-            <Button variant="secondary" href="https://opendlt.org/tooling/studio/">
+            <Button variant="secondary" href="https://accumulate-studio.vercel.app/">
               Open Accumulate Studio
             </Button>
           </div>
@@ -193,7 +193,7 @@ export default function DocsPage() {
               title: "Accumulate Studio",
               description:
                 "Developer studio by OpenDLT — build with all five SDKs (Dart, Rust, C#, Python, JavaScript) instantly in the browser.",
-              href: "https://opendlt.org/tooling/studio/",
+              href: "https://accumulate-studio.vercel.app/",
             },
             {
               title: "OpenDLT",
@@ -245,7 +245,7 @@ export default function DocsPage() {
               { label: "Protocol Specification", href: "#" },
               {
                 label: "Accumulate Studio",
-                href: "https://opendlt.org/tooling/studio/",
+                href: "https://accumulate-studio.vercel.app/",
               },
               {
                 label: "GitLab",
@@ -274,7 +274,7 @@ export default function DocsPage() {
           body="Our engineering team can help you scope your first integration — or jump straight into Studio."
           primaryCTA={{ label: "Talk to an Engineer", href: "/contact" }}
           secondaryCTA={{ label: "Start a Pilot", href: "/pilot" }}
-          tertiaryCTA={{ label: "Open Studio", href: "https://opendlt.org/tooling/studio/" }}
+          tertiaryCTA={{ label: "Open Studio", href: "https://accumulate-studio.vercel.app/" }}
         />
       </Section>
     </>

@@ -356,7 +356,7 @@ export default function HomePage() {
             <Button variant="primary" href="/docs#quickstart">
               Quickstart
             </Button>
-            <Button variant="secondary" href="https://opendlt.org/tooling/studio/">
+            <Button variant="secondary" href="https://accumulate-studio.vercel.app/">
               Accumulate Studio
             </Button>
             <Button variant="secondary" href="/docs">

@@ -203,7 +203,7 @@ export default function ProgressPage() {
           body="Join the community, contribute to development, or start building with Studio."
           primaryCTA={{ label: "Join Discord", href: "https://discord.gg/accumulate" }}
           secondaryCTA={{ label: "Read the Docs", href: "/docs" }}
-          tertiaryCTA={{ label: "Open Studio", href: "https://opendlt.org/tooling/studio/" }}
+          tertiaryCTA={{ label: "Open Studio", href: "https://accumulate-studio.vercel.app/" }}
         />
       </Section>
     </>

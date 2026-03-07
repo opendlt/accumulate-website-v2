@@ -152,6 +152,11 @@ export default function EcosystemPage() {
               comment: "Accumulate Studio — build with all five SDKs instantly",
               href: "https://accumulate-studio.vercel.app/",
             },
+            {
+              command: "identity-scope",
+              comment: "Accumulate Identity Scope — explore the identity tree on-chain",
+              href: "https://accumulate-identity-scope.vercel.app/",
+            },
           ]}
         />
       </Section>

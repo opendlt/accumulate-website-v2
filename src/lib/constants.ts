@@ -164,14 +164,14 @@ export const COMMUNITY_PARTNERS = [
     name: "OpenDLT",
     role: "Open-Source Tooling & SDKs",
     description:
-      "Maintains idiomatic client libraries in Python, Dart, and Rust, along with SDKs, the DevNet startup pack, and open-source infrastructure for the Accumulate ecosystem.",
+      "Maintains idiomatic client libraries in Python, Dart, and Rust, along with SDKs, the DevNet startup pack, and open-source infrastructure for the Accumulate ecosystem. Also developed and maintains the Accumulate Studio and the Accumulate Identity Scope.",
     href: "https://opendlt.org",
   },
   {
     name: "Kompendium",
     role: "Community Wallet & Tools",
     description:
-      "Builders of the Accu2 wallet and community-driven tools that expand usability and accessibility across the Accumulate network.",
+      "Builders of the Accu2 wallet and community-driven tools that expand usability and accessibility across the Accumulate network. Also developed the Accumulate Mobile App and the Accumulate Web App.",
     href: "https://kompendium.co",
   },
   {
@@ -227,6 +227,11 @@ export const ROADMAP_SHIPPED = [
     title: "Accumulate Studio",
     description:
       "Developer studio by OpenDLT for onboarding and building on Accumulate with full support for Dart, Rust, C#, Python, and JavaScript SDKs.",
+  },
+  {
+    title: "Accumulate Identity Scope",
+    description:
+      "Interactive identity tree explorer by OpenDLT for visualizing and navigating the full hierarchy of Accumulate identities, sub-identities, and accounts on the network.",
   },
 ] as const;
 
